@@ -1,0 +1,56 @@
+body {
+	background-color: ghostwhite;
+}
+
+#container {
+	width: 800px;
+	background-color: gray;
+	height: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#nav {
+	width: 780px;
+	height: 100px;
+	border-color: white;
+	background-color: silver;
+	margin: 10px;
+	float:left;
+}
+
+#box1 {
+	width: 385px;
+	height: 380px;
+	background-color: silver;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	float: left;
+}
+
+#box2 {
+	width: 385px;
+	height: 380px;
+	background-color: silver;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	float: right;
+}
+
+#box3 {
+	width: 385px;
+	height: 380px;
+	background-color: silver;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	float: left;
+}
+
+#box4 {
+	width: 385px;
+	height: 380px;
+	background-color: silver;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	float: right;
+}
